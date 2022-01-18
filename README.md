@@ -36,13 +36,5 @@ W trakcie rozgrywki gracze dokonują następujących akcji:
 
 Gracze mogą grać tymi samymi postaciami przez wiele kampanii – na początku każdej nowej kampanii mają 3 Punkty Szczęścia oraz tracą niewydane Punkty Doświadczenia, Atrybutów i Umiejętności. Wszystkie wartości Atrybutów, Umiejętności i Ekwipunku powinny zostać takie same.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-Moduł Dice.py zawiera implementację kości o n ściankach.
-
-Moduł CharacterSheet.py zawiera implementację karty postaci zgodną z powyższymi wymaganiami.
-
-Moduły Application.py, AutoSaveDialog.py, ChoiceDialog.py, EntryChoiceDialog.py, EntryDialog.py, ErrorDialog.py, IfDialog.py, ResultDialog.py zawierają elementy interfejsu graficznego utworzonego z wykorzystaniem tkinter.
-
 Branch main zawiera dokumentację projektu. Implementacja aplikacji znajduje się w branchu app.
 -
