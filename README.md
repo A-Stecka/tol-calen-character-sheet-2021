@@ -3,6 +3,6 @@ The Tol Calen system is the exclusive property of BTA Kompas. The system's logo 
 -  
 The module **Dice.py** contains the implementation of dice with n sides.  
 
-The module **CharacterSheet.py** contains the implementation of the character sheet in accordance with the above requirements.  
+The module **CharacterSheet.py** contains the implementation of the character sheet in accordance with the system rules.  
 
-The modules **Application.py**, **AutoSaveDialog.py**, **ChoiceDialog.py**, **EntryChoiceDialog.py**, **EntryDialog.py**, **ErrorDialog.py**, **IfDialog.py**, and **ResultDialog.py** contain elements of the graphical user interface created using Tkinter.
+The modules **Application.py**, **AutoSaveDialog.py**, **ChoiceDialog.py**, **EntryChoiceDialog.py**, **EntryDialog.py**, **ErrorDialog.py**, **IfDialog.py** and **ResultDialog.py** contain elements of the graphical user interface created using Tkinter.
