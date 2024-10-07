@@ -1,10 +1,8 @@
-# E-karta Tol Calen
-System Tol Calen jest wyłączną własnością BTA Kompas. Logo systemu wykorzystane w oknie startowym aplikacji oraz jako ikona aplikacji jest wyłączną własnością BTA Kompas.
-Elementy systemu oraz logo zostały wykorzystane jako elementy projektu w ramach przedmiotu Języki skryptowe napisanego wyłącznie na użytek indywidualny.
-Mechanika karty postaci jest mechaniką systemu aktualną w latach 2018-2019.
--
-Moduł Dice.py zawiera implementację kości o n ściankach.
+# Tol Calen electronic character sheet 
+The Tol Calen system is the exclusive property of BTA Kompas. The system's logo used in the application’s startup window and as the application’s icon is the exclusive property of BTA Kompas. System elements and the logo have been used as components of the project for the course Scripting Languages, created exclusively for personal use. The character sheet mechanics are based on the system's rules from 2018–2019.
+-  
+The module **Dice.py** contains the implementation of dice with n sides.  
 
-Moduł CharacterSheet.py zawiera implementację karty postaci zgodną z powyższymi wymaganiami.
+The module **CharacterSheet.py** contains the implementation of the character sheet in accordance with the above requirements.  
 
-Moduły Application.py, AutoSaveDialog.py, ChoiceDialog.py, EntryChoiceDialog.py, EntryDialog.py, ErrorDialog.py, IfDialog.py, ResultDialog.py zawierają elementy interfejsu graficznego utworzonego z wykorzystaniem tkinter.
+The modules **Application.py**, **AutoSaveDialog.py**, **ChoiceDialog.py**, **EntryChoiceDialog.py**, **EntryDialog.py**, **ErrorDialog.py**, **IfDialog.py**, and **ResultDialog.py** contain elements of the graphical user interface created using Tkinter.
