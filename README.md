@@ -4,8 +4,8 @@ The system's logo used in the application’s startup window and as the applicat
 The character sheet mechanics are based on the system's rules from 2018–2019.
 -
 
-Role-playing games (RPGs) are a combination of story-driven computer games, board games, and improvisational theater. The primary tools for players are the character sheet and dice.  
-In the **Tol Calen** system, to which this project is related, the character sheet contains the following elements:
+Role-playing games (RPGs) are a combination of story-driven computer games, board games and improvisational theater. The primary tools for players are the character sheet and dice.  
+In the **Tol Calen** system the character sheet contains the following elements:
 
 - **Character Concept**: the character’s name, origin, class (available classes: Sly, Scholar, Brave), and the name of the player controlling the character.  
 - **6 Attributes**, each with a value between 0 and 5. A total of 15 points can be distributed among them.
@@ -14,7 +14,7 @@ In the **Tol Calen** system, to which this project is related, the character she
 - **Affinity**: Whether the character is related to a deity and, therefore, capable of using magic. Having Affinity costs one Attribute Point.
 - **Values for Health, Energy, and Initiative**:
   - **Health** is calculated based on Endurance – one point of Endurance equals 6 Health points.
-  - **Energy** is calculated based on Charisma (for Sly characters), Intellect (for Scholar characters), or Dexterity (for Brave characters). The Attribute value is multiplied by 2 and added to the Willpower value. If the character has Affinity, they receive one additional Energy point.
+  - **Energy** is calculated based on Charisma (for Sly characters), Intellect (for Scholar characters) or Dexterity (for Brave characters). The Attribute value is multiplied by 2 and added to the Willpower value. If the character has Affinity, they receive one additional Energy point.
   - The base **Initiative** value is the sum of Dexterity and Perception.
 - **3 Luck Points**, which allow automatic success on a given test.
 - **Experience Points**, which enable character development.
@@ -38,13 +38,13 @@ During gameplay, players perform the following actions:
   - The die roll result is 2.
   - The final Initiative value is 7.
 
-- **Receive and heal damage, and expend and restore Energy**: The amount of damage and Energy used is determined by the Game Master. During healing or Energy restoration, a character’s Health or Energy cannot exceed the base value. A character with zero Energy cannot cast spells, and one with zero Health must roll against Death.
+- **Receive and heal damage, expend and restore Energy**: The amount of damage taken and Energy used is determined by the Game Master. During healing or Energy restoration, a character’s Health or Energy cannot exceed the base value. A character with zero Energy cannot cast spells and one with zero Health must roll against Death.
 
-- **Burn Luck Points**: Burning a Luck Point allows automatic success on a test regardless of the roll result or even without rolling. However, burned Luck Points cannot be regained.
+- **Burn Luck Points**: Burning a Luck Point allows automatic success on a test regardless of the roll result or even without rolling. However, burnt Luck Points cannot be regained.
 
 - **Gain and spend Experience Points**: One Experience Point can be exchanged for one Attribute Point or three Skill Points.
 
-Players can continue using the same characters across multiple campaigns. At the beginning of each new campaign, they have 3 Luck Points and lose any unspent Experience, Attribute, and Skill Points. All values for Attributes, Skills, and Equipment remain the same.
+Players can continue using the same character across multiple campaigns. At the beginning of each new campaign, they have 3 Luck Points and lose any unspent Experience, Attribute and Skill Points. All values for Attributes, Skills and Equipment remain the same.
 
 The main branch contains the project documentation. The application implementation can be found in the app branch.
 -
